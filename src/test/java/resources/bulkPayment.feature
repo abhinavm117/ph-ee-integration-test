@@ -40,7 +40,7 @@ Feature: Test ability to make payment to individual with bank account
     Then I call the deposit account endpoint with command "deposit" for amount 9000 for "payer"
     Then I add "payer" with account id "323456789" to als
 
-    Given I have Fineract-Platform-TenantId for "payee"
+    Given I have Fineract-Platform-TenantId for "payee1"
     When I call the create client endpoint for "payee"
     Then I call the create savings product endpoint for "payee"
     When I call the create savings account endpoint for "payee"

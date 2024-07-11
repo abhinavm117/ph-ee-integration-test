@@ -1,0 +1,14 @@
+id,request_id,payment_mode,payer_identifier_type,payer_identifier,payee_identifier_type,payee_identifier,amount,currency,note
+0,7aaca71e-acc5-4e21-a03d-a1c8c8fc222f,closedloop,msisdn,2720,msisdn,2061,10,USD,Test Payee Payment
+1,ab29ed3e-bf56-4b83-9d20-e82134c80d4f,closedloop,msisdn,2721,msisdn,2062,5,USD,Test Payee Payment
+2,acb9a6af-ea4b-4e5f-a9d9-8f540e1bfe73,closedloop,msisdn,2722,msisdn,2063,5,USD,Test Payee Payment
+3,8cd7a63b-6f2d-46bc-a648-98d4c27e1335,closedloop,msisdn,2723,msisdn,2064,5,USD,Test Payee Payment
+4,f0842614-c22c-42d0-b7f5-5e04f6f19115,closedloop,msisdn,2724,msisdn,2065,5,USD,Test Payee Payment
+5,a681c53e-8207-4c7a-a926-9105c8f91e2d,gsma,msisdn,2725,msisdn,2066,6,USD,Test Payee Payment
+6,880eba04-23c8-4310-b3e4-66a027b08e31,gsma,msisdn,2726,msisdn,2067,7,USD,Test Payee Payment
+7,acd764f7-6949-412f-880c-7af877820bb0,gsma,msisdn,2727,msisdn,2068,8,USD,Test Payee Payment
+8,43710a1c-3f82-422e-9b10-afe6024878b0,gsma,msisdn,2728,msisdn,2069,9,USD,Test Payee Payment
+9,89a8e473-c3a4-4f54-bfe7-67324a256fb6,gsma,msisdn,2729,msisdn,2070,10,USD,Test Payee Payment
+10,df67f7d8-8f93-454f-af49-f1a4f17f6554,mojaloop,msisdn,2730,msisdn,2071,3,USD,Test Payee Payment
+11,10ef4bb9-7d85-4525-8aab-fd0826f55978,mojaloop,msisdn,2731,msisdn,2071,2,USD,Test Payee Payment
+12,6bb36c01-a540-4e4e-b7bd-f7c42ad4ac14,mojaloop,msisdn,2732,msisdn,2072,1,USD,Test Payee Payment
